@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://i.postimg.cc/GmwbqVjg/rem-lansdscape-wallpaper-only4u-rezero-by-only4uart-dgvt43w-fullview.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0994ee3c-b53e-4a43-bbeb-4175b22a12bc/dhde1fb-b265dc58-c36f-46b7-b240-d4b697b2bf04.jpg/v1/fit/w_828,h_448,q_70,strp/rem_wallpaper_by_aiimagify_dhde1fb-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjkzIiwicGF0aCI6IlwvZlwvMDk5NGVlM2MtYjUzZS00YTQzLWJiZWItNDE3NWIyMmExMmJjXC9kaGRlMWZiLWIyNjVkYzU4LWMzNmYtNDZiNy1iMjQwLWQ0YjY5N2IyYmYwNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GeoKK-qQJcJEeMRgKXjOUJoPqmvg-u-hDkKZfSJra6w); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
