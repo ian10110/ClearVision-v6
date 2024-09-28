@@ -38,14 +38,14 @@
   --members-width: 240px; /* member list width [default: 240px] */
 
   /* APP BACKGROUND */
-  --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
+  --background-shading: 80%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://iili.io/dZzfJPj.png); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
   --background-attachment: fixed; /* app background attachment [default: fixed] */
-  --background-brightness: 100%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
+  --background-brightness: 120%; /* app background brightness (< 100% for darken, > 100% for lighten) [default: 100%] */
   --background-contrast: 100%; /* app background contrast [default: 100%] */
   --background-saturation: 100%; /* app background saturation [default: 100%] */
   --background-invert: 0%; /* app background invert (0 - 100%)  [default: 0%] */
@@ -106,7 +106,7 @@
   --user-modal-invert: var(--background-invert); /* user modal background invert (0 - 100%) [default: var(--background-invert)] */
   --user-modal-grayscale: var(--background-grayscale); /* user modal background grayscale (0 - 100%) [default: var(--background-grayscale)] */
   --user-modal-sepia: var(--background-sepia); /* user modal background sepia (0 - 100%) [default: var(--background-sepia)] */
-  --user-modal-blur: calc(var(--background-blur) + 3px); /* user modal background blur [default: calc(var(--background-blur) + 3px)] */
+  --user-modal-blur: calc(var(--background-blur) + 2px); /* user modal background blur [default: calc(var(--background-blur) + 3px)] */
 
   /* THEME BD COLORS */
   --bd-blue: var(--main-color); /* betterdiscord main color [default: var(--main-color)] */
